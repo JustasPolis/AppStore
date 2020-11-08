@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "garden.png",
+      "idiom" : "universal",
+      "locale" : "letsbuildthatapp.com",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "letsbuildthatapp.com",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "letsbuildthatapp.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
